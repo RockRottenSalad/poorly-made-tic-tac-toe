@@ -6,7 +6,8 @@ will give you a seizure on windows(in other words: doesn't function on windows)<
 
 to make it run:<br>
 1: download tictactoe.out alongside tictactoe.png and arial.ttf <br>
-2: keep everything in the same directory or it probably wont run<br><br>
+2: keep everything in the same directory or it probably wont run<br>
+3: run tictactoe.out by using the command: `./tictactoe.out`<br><br>
 
 if you'd like to compile it yourself:<br>
 1: download raylib libary from raylib.com<br>
