@@ -11,7 +11,7 @@ to make it run:<br>
 
 if you'd like to compile it yourself:<br>
 1: download raylib libary from raylib.com<br>
-2: install the gcc compiler
+2: install the gcc compiler<br>
 3: download source.c, arial.ttf and tictactoe.png<br>
 4: compile the code by running:<br>
 `gcc source.c -lraylib`
