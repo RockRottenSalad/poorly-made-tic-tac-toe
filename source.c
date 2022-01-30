@@ -14,7 +14,7 @@ static int board[][3] = {
 };
 
 void CheckForWin(){
-  Font Arial = LoadFontEx("./font/arial.ttf", 30, 0, 200);
+  Font Arial = LoadFontEx("./arial.ttf", 30, 0, 200);
   //printf("\n%d, %d, %d\n%d, %d, %d\n%d, %d, %d\n", board[0][0],board[0][1],board[0][2],
 //  board[1][0],board[1][1],board[1][2],board[2][0],board[2][1],board[2][2]);
 BeginDrawing();
