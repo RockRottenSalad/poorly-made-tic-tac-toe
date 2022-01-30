@@ -14,6 +14,10 @@ if you'd like to compile it yourself:<br>
 2: install the gcc compiler<br>
 3: download source.c, arial.ttf and tictactoe.png<br>
 4: compile the code by running:<br>
-`gcc source.c -lraylib`
+`gcc source.c -lraylib` <br><br>
 
+feel free to swap out the tictactoe.png file with something else<br>
+do note that the new image needs to have the same name and file format<br>
+the program works by splitting the image in half and then placing a half inside of a tile<br>
+each tile takes up 300x300 pixels<br>
 
