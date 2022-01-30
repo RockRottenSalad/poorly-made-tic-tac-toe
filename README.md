@@ -1,5 +1,18 @@
 # poorly-made-tic-tac-toe
 rookie amateur programmer who just discovered raylib tried re-creating tic tac toe<br>
-download tictactoe.out alongside tictactoe.png and arial.ttf to make it run, might or might not require raylib<br>
-keep everything in the same directory or it probably wont run<br>
-runs fine on linux, will give you a seizure on windows(in other words: doesn't function on windows)
+
+runs on linux and probably depends on raylib<br>
+will give you a seizure on windows(in other words: doesn't function on windows)<br><br>
+
+to make it run:<br>
+1: download tictactoe.out alongside tictactoe.png and arial.ttf <br>
+2: keep everything in the same directory or it probably wont run<br><br>
+
+if you'd like to compile it yourself:<br>
+1: download raylib libary from raylib.com<br>
+2: install the gcc compiler
+3: download source.c, arial.ttf and tictactoe.png<br>
+4: compile the code by running:<br>
+`gcc source.c -lraylib`
+
+
