@@ -10,7 +10,7 @@ to make it run:<br>
 3: run tictactoe.out by using the command: `./tictactoe.out`<br><br>
 
 if you'd like to compile it yourself:<br>
-1: download raylib libary from raylib.com<br>
+1: download raylib libary from https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux<br>
 2: install the gcc compiler<br>
 3: download source.c, arial.ttf and tictactoe.png<br>
 4: compile the code by running:<br>
