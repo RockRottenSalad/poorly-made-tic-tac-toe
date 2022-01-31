@@ -7,7 +7,8 @@ Will give you a seizure on windows(in other words: doesn't function on windows)<
 To make it run:<br>
 1: Download tictactoe.out alongside tictactoe.png and arial.ttf <br>
 2: Keep everything in the same directory or it probably wont run<br>
-3: Run tictactoe.out by using the command: `./tictactoe.out`<br><br>
+3: If tictactoe.out isn't an executeable, then run: `chmod +x tictactoe.out` <br>
+4: Run tictactoe.out by using the command: `./tictactoe.out`<br><br>
 
 If you'd like to compile it yourself:<br>
 1: Download raylib libary from https://github.com/raysan5/raylib/wiki/Working-on-GNU-Linux<br>
